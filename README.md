@@ -2,6 +2,7 @@
 
  🔭 I’m currently working on in Java ,MySQL.
 - 🌱 I’m currently learning Cybersecurity,DSA
+- www.linkedin.com/in/prashantpal08
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -2,7 +2,7 @@
 
 
 - 🏢 MCA- CSF Student at **UPES**
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Machine Learning-success"> and <img src="https://img.shields.io/badge/Software Development-blue">
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Cyber-Security-success"> and <img src="https://img.shields.io/badge/Software Development-blue">
 - 🌱 I'm Currently learning  Metasploit, Kali linux , Cyber Forensic.
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on JAVA 
  <!-- <img src="https://img.shields.io/badge/Machine Learning-blue"> --->
@@ -12,22 +12,32 @@
 <h3>⚡Things I code with</h3>
 <p>
 <img alt="JAVA" src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=openjdk&logoColor=white"><a>
+ <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernatet-43853d?style=flat-square&logo=Hibernate&logoColor=Olive"><a>
+<img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white"><a>
+<img alt="Springboot" src="https://img.shields.io/badge/-Springboot-43853d?style=flat-square&logo=Springboot&logoColor=white"><a>
+<img alt="Kubernates" src="https://img.shields.io/badge/Kubernates-00599C?style=flat-square&logo=Kubernates&logoColor=white"><a>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
-<img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
-<img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
-<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
-<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+ <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"><a>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"><a>
   <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=Django&logoColor=white"><a>
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-CB3837?style=flat-square&logo=SQL&logoColor=white"><a>
+ <img alt="SQL" src="https://img.shields.io/badge/-SQL-CB3837?style=flat-square&logo=SQL&logoColor=white"><a>
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-43853d?style=flat-oval&logo=MongoDBt&logoColor=white"><a>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><a>
-   <img alt="CSS" src="https://img.shields.io/badge/-CSS-FF6F00?style=flat-square&logo=CSS&logoColor=white"><a>
+ <img alt="CSS" src="https://img.shields.io/badge/-CSS-FF6F00?style=flat-square&logo=CSS&logoColor=white"><a>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-43853d?style=flat-square&logo=JavaScript&logoColor=white"><a>
+ <img alt="express" src="https://img.shields.io/badge/-express-43853d?style=circle&logo=express&logoColor=black"><a>
+ <img alt="Angular" src="https://img.shields.io/badge/-Angular-E34F26?style=circle&logo=angular&logoColor=black"><a>
+<img alt="Dart" src="https://img.shields.io/badge/-Dart-2C2D72?style=circle&logo=Dart&logoColor=blue"><a>
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-2C2D72?style=circle&logo=Flutter&logoColor=blue"><a>
+<img alt="React" src="https://img.shields.io/badge/-React-2C2D72?style=circle&logo=React&logoColor=blue"><a>
+<img alt="nodejs" src="https://img.shields.io/badge/-nodejs-43853d?style=circle&logo=nodejs&logoColor=green"><a>
+ <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFD43B?style=flat-square&logo=Firebase&logoColor=darkgreen"></a>
+
+
 </p>
 
 ---
